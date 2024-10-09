@@ -1,0 +1,57 @@
+# Notes on Modern Application Development
+
+## Course Introduction
+- Overview of modern technologies in application development.
+- Focus on understanding what constitutes an application (app).
+
+## Definition of an App
+- An app is:
+  - A computer software or program, primarily small and specific in nature.
+  - Commonly used on mobile devices.
+- Historical context:
+  - Originally referred to any mobile or desktop application.
+  - Evolved into small programs available through app stores, especially after the rise of the smartphone.
+
+## Common Types of Applications
+- Examples include:
+  - **Icons Familiarity**: Amazon app, Twitter, Microsoft Word, browsers (Chrome, Firefox, Edge, Safari).
+  - Text editors like Visual Studio Code and Sublime Text.
+  - Email clients (e.g., Outlook, Thunderbird).
+  
+## Text Editors vs. Word Processors
+- **Text Editors**: Focus on handling text and coding (syntax highlighting, automatic indenting).
+- **Word Processors**: More formatting capabilities (bold, italics) that are less suited for code.
+
+## Importance of Familiarity with Terminal/Command Line
+- Essential for running programs and understanding application management.
+
+## Application Types by Platform
+### 1. Desktop Apps
+- Standalone programs, often without network connectivity needs.
+- Examples: Microsoft Word, Visual Studio Code, web browsers, email clients.
+- Can store data locally and perform operations offline.
+
+### 2. Mobile Apps
+- Targeted primarily at smartphones, also includes tablets.
+- **Constraints**: Limited screen space, processing power, and memory.
+- Interaction methods vary (touch, gestures, audio).
+- Apps often require a network connection for full functionality.
+
+## Development Frameworks and SDKs
+- Software Development Kits (SDKs): OS-specific frameworks for application development.
+  - Example: Windows SDK for Windows applications.
+- Applications may have to be tailored for specific operating systems.
+- Blurring gap between apps and full applications as they become more focused.
+
+## Web Applications
+- Operate on web browsers (e.g., Chrome, Firefox) which support multiple operating systems.
+- Heavily network-dependent; designed for dynamic interaction and content changes.
+- Use of JavaScript for front-end processing and user interactivity.
+- Main focus of the course: Understanding fundamental principles applicable across various platforms.
+
+## Course Goals
+- Understand the essential principles of app development.
+- Aim for neutrality in applications to apply the knowledge learned across different operating systems. 
+
+---
+These notes summarize the main points of the lecture, providing an overview of application types, the significance of various software tools, and the foundational principles for app development as explored in the course.
