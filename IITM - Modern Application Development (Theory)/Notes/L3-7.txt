@@ -1,0 +1,57 @@
+# Notes on Modern Application Development: Accessibility and Aesthetics
+
+## Importance of Accessibility
+- **Awareness of Disabilities**: It's crucial to consider that the majority of web applications are designed with the assumption of users having normal sensory abilities (vision, hearing, motor functions).
+- **Types of Impairments**:
+  - **Visual Impairment**: Ranges from complete blindness to low vision (e.g. poor contrast, small font sizes).
+  - **Speech Impairments**: Users may struggle with voice interaction or understanding speech output.
+  - **Motor Disabilities**: Challenges in using touch interfaces or needing assistive technology for navigation.
+
+## Key Questions on Accessibility
+1. Can the designed page/application be accessed by individuals with disabilities?
+2. What barriers exist that prevent comprehension of the content?
+3. How can accessibility be enhanced?
+
+## W3C Recommendations
+- **W3C (World Wide Web Consortium)**: Governing body providing recommendations rather than strict rules, particularly for web accessibility.
+- They offer accessibility guidelines that are beneficial for designing inclusive websites and applications.
+
+## Core Principles of Accessibility (WCAG)
+1. **Perceivable**:
+   - Provide text alternatives for non-text content (images, videos, etc.).
+   - Create content that can be presented in various forms.
+   - Ensure content is easy to see and hear.
+
+2. **Operable**:
+   - Ensure all functionality is available from a keyboard.
+   - Provide sufficient time for users to read and react to content.
+   - Avoid content that can trigger photosensitivity.
+   - Make navigation and content discovery straightforward.
+
+3. **Understandable**:
+   - Make text readable and in clear language.
+   - Content should behave in predictable ways.
+   - Provide clear inputs to minimize user errors.
+
+4. **Robust**:
+   - Adhere to standards to ensure compatibility across different tools and browsers.
+
+## Techniques for Accessibility
+- Use descriptive labels for user interface elements.
+- Employ HTML tags to support assistive technologies.
+- Evaluate website accessibility using available tools.
+
+## Aesthetics in Application Design
+- Visual appearance influences user experience and acceptance of applications.
+- Evolution of design elements (e.g. Apple iPhone icons).
+- Simplicity in design is becoming more prevalent, moving away from complex aesthetics.
+- Aesthetic standards and preferences evolve over time, making it essential to stay updated.
+
+## Summary
+- A view can be any output seen by users or machines.
+- Prioritize accessibility in design to cater to a broader audience.
+- Aesthetics enhance the user interface but should not come at the expense of accessibility.
+- Utilizing tools for automatic generation and consistent layouts is crucial for effective view design in large applications.
+- Always learn from industry standards and experiences to inform application development.
+
+This concludes the summary of key points regarding accessibility and aesthetics in modern application development.
